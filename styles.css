@@ -1,0 +1,38 @@
+body{
+background-image: "images/flag.gif";
+}
+
+p{
+	text-align: center;
+	width:600px;
+}
+h1{
+	text-align: center;
+}
+h2{
+	text-align: center;
+}
+
+.border: {
+	border-color: orange;
+	border-width: 10px;
+ }
+
+.orange{
+	color:orange;
+}
+.purple{
+	color:purple;
+}
+
+.left{
+	float:left; 
+}
+
+.right{
+	float:right;
+}
+
+.center{
+	float:center;
+}
